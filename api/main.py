@@ -1,6 +1,6 @@
 import enum
 
-from webserver import start_webserver
+from api.webserver import start_webserver
 
 import discord
 from discord import app_commands
